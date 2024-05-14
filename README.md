@@ -2,11 +2,6 @@
 <!--Barra-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <!-- Saludo ( Hello) -->
 <h1 style="color:red;" align="center">USER INPUT/OUTPUT CONTROL SOFTWARE</h1>
 <h4><span style="color:yellow;">Don't forget to give the little star wing 🌟</span></h4>
