@@ -2,6 +2,10 @@
 <!--Barra-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 <!-- Saludo ( Hello) -->
 <h1 style="color:red;" align="center">USER INPUT/OUTPUT CONTROL SOFTWARE</h1>
@@ -74,8 +78,6 @@ y en PDF.
 
 ![Project](https://github.com/felipesanchez-dev/Attendance_Control-Software/blob/master/Img/image10.png?raw=true)
 
-
-
 ## SOBRE EL PROYECTO
 Este proyecto combina HTML, CSS Bootstrap, JavaScript Y PHP para crear una experiencia dinámica y funcional, tiene como propocito
 automatizar de forma rapida y dinamica el flujo de usuarios que entran y salen.
@@ -86,7 +88,7 @@ automatizar de forma rapida y dinamica el flujo de usuarios que entran y salen.
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://developer.mozilla.org/en-US/docs/Glossary/PHP)
 
-  ## Contact me:
+  ## CONTACTAME:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=instagram"/>](https://www.instagram.com/felipesanchez_dev/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](mailto:jfelipe9.121@gmail.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/felipereyessa/)
