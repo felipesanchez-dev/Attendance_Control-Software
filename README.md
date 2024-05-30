@@ -71,7 +71,6 @@ En esta ventana el personal administrativo puede ver, modificar o eliminar regis
 como también realizar una exportación de estos mismos registros en formatos como Excel, CSV 
 y en PDF.
 
-![Project](https://github.com/felipesanchez-dev/Attendance_Control-Software/blob/master/Img/image10.png?raw=true)
 
 ## SOBRE EL PROYECTO
 Este proyecto combina HTML, CSS Bootstrap, JavaScript Y PHP para crear una experiencia dinámica y funcional, tiene como propocito
