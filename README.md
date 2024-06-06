@@ -10,8 +10,7 @@
 Este documento presenta la estructuración de un programa a través de la
 elaboración de diagramas destinados a representar su lógica operativa y la
 interacciones correspondientes. El objetivo principal de este programa es
-optimizar y simplificar el registro de todo el personal, estudiantes, personal administrativo
-y profesores de CUN. Mejorar este proceso es fundamental, ya que uno de los
+optimizar y simplificar el registro de todo el personal. Mejorar este proceso es fundamental, ya que uno de los
 Los desafíos que enfrenta la universidad es el ingreso de personas no autorizadas,
 que acompañan a los estudiantes sin tener relación con la institución. El
 ausencia de un método eficiente para verificar la membresía en la institución en general
